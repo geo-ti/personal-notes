@@ -5,4 +5,4 @@
 
 ---
 
-Related: [[LinkedIn]], [[Disaster_Management]], [[Urban_Heat]]
+Related: [[LinkedIn]], [[Disaster_Management]], [[Urban_Heat]], [[SQL]]

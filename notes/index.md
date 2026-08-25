@@ -4,9 +4,9 @@ Table of contents for all notes pages.
 
 ## Latest Finds
 
+- [Optimizing DuckDB Spatial Queries](https://www.geomermaids.com/cookbook/duckdb-spatial/): Comparison of PostGIS and DuckDB spatial join optimization techniques. See [[SQL]].
 - [The Exact CV Structure That Gets Shortlisted for UN and INGO Roles](https://www.linkedin.com/feed/update/urn:li:activity:7477218581319958528/): Mujahid Khan's recommended section order and formatting rules for international-development CVs. See [[LinkedIn]].
 - [19 Urban Heat & Heatwave Papers You Shouldn't Miss](https://www.linkedin.com/feed/update/urn:li:activity:7477382940583448576/): Milan Janosov's curated list of 19 research papers on urban heat and heatwaves. See [[Urban_Heat]].
-- [UNESCO Flood Hazard and Exposure Mapping Course](https://www.linkedin.com/feed/update/urn:li:activity:7477812861021442048/): Free UNESCO/Antea Group course on flood hazard and exposure mapping. See [[Disaster_Management]].
 
 ## Topics
 
@@ -23,6 +23,7 @@ Table of contents for all notes pages.
 - [QGIS](QGIS.md) — QGIS software, tools, and workflows.
 - [Python](Python.md) — Python programming, scripting for data analysis and geospatial workflows.
 - [Machine_Learning](Machine_Learning.md) — Machine learning concepts, models, and applications.
+- [SQL](SQL.md) — SQL and spatial-SQL engines: query optimization, spatial extensions, geospatial databases.
 
 ### Others
 

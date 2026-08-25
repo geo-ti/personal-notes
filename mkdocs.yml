@@ -65,5 +65,6 @@ nav:
     - QGIS: QGIS.md
     - Python: Python.md
     - Machine Learning: Machine_Learning.md
+    - SQL: SQL.md
     - LinkedIn: LinkedIn.md
     - Changelog: log.md
