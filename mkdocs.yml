@@ -1,0 +1,69 @@
+site_name: Personal Notes
+site_url: https://geo-ti.github.io/personal-notes/
+repo_url: https://github.com/geo-ti/personal-notes
+repo_name: geo-ti/personal-notes
+edit_uri: edit/main/notes/
+
+docs_dir: notes
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+
+hooks:
+  - hooks.py
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - roamlinks
+
+nav:
+  - Home:
+    - index.md
+    - Climate Change: Climate_Change.md
+    - Disaster Management: Disaster_Management.md
+    - Urban Heat: Urban_Heat.md
+    - Remote Sensing: Remote_Sensing.md
+    - ArcGIS: ArcGIS.md
+    - QGIS: QGIS.md
+    - Python: Python.md
+    - Machine Learning: Machine_Learning.md
+    - LinkedIn: LinkedIn.md
+    - Changelog: log.md
